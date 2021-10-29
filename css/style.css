@@ -147,8 +147,8 @@
         box-shadow: 0 8px 16px 0 rgb(126, 123, 123);
     }
     .course-img{
-        width: 230px;
-        height: auto;
+        width: auto;
+        height: 102px;
     }
     .checked{
         color: rgb(255, 187, 0);
